@@ -142,7 +142,7 @@ REACT_APP_CLIENT_SECRET="sAaKljs__17vKbKoVT8G_Jsw-dMrOP8N4i_aPBEjcLQ"
 ```
 #### NB: Using the above details on your `.env` file will not work as each devices needs its unique `REACT_APP_CLIENT_ID` and `REACT_APP_CLIENT_SECRET` details, use the step below to generate for your device
 
-👉 Please use this [link](https://github.com/Cluab/Book-An-Appointment-Back-End) to go to the back-end part of this project.
+👉 Please use this [link](https://github.com/Cluab/Coders-Hub-Back-End) to go to the back-end part of this project.
 
 👉 On the Back-End Repo, run the seed file by using the command line :
 - `rails db:seed`
